@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taste</string>
+    <string name="My_image" />
+    <string name="open_drawer">open navigation drawer</string>
+    <string name="close_drawer">close navigation drawer</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="Vegetarian">Vegetarian</string>
+</resources>

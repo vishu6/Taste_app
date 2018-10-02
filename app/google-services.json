@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190033302804",
+    "firebase_url": "https://taste-92673.firebaseio.com",
+    "project_id": "taste-92673",
+    "storage_bucket": "taste-92673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190033302804:android:7e538f268b27be64",
+        "android_client_info": {
+          "package_name": "com.example.vihu.taste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190033302804-qk4n066ronocrh6eai0ou5oiiftuhhtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vihu.taste",
+            "certificate_hash": "51175dc84f72b3d49dba02c4367ab448fa65df4e"
+          }
+        },
+        {
+          "client_id": "190033302804-gjsn0qhcfjininq924toq8jt2cr3kuo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ-dedddrWRhWiI_50DGpHciKXSpMHzQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190033302804-gjsn0qhcfjininq924toq8jt2cr3kuo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
